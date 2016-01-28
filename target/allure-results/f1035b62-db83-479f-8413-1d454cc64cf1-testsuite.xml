@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1453987396908" stop="1453987402763" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Check the left sites | nav-stock | Yahoo Finance - Business Finance, Stock Market, Quotes, News |</name>
+    <title>Check the left sites | nav-stock | Yahoo Finance - Business Finance, Stock Market, Quotes, News |</title>
+    <test-cases>
+        <test-case start="1453987396908" stop="1453987396909" status="passed">
+            <name>Given I am on the yahoo home page</name>
+            <title>Given I am on the yahoo home page</title>
+            <steps>
+                <step start="1453987382602" stop="1453987396907" status="passed">
+                    <name>shouldNavigateToYahooSite</name>
+                    <title>^I am on the yahoo home page$</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="iklymchuk"/>
+                <label name="thread" value="17529@iklymchuk.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1453987397056" stop="1453987397056" status="passed">
+            <name>When I click on nav-stock</name>
+            <title>When I click on nav-stock</title>
+            <steps>
+                <step start="1453987396911" stop="1453987397056" status="passed">
+                    <name>shouldClickOnLeftSite[nav-stock]</name>
+                    <title>I click on leftlink</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="iklymchuk"/>
+                <label name="thread" value="17529@iklymchuk.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1453987402541" stop="1453987402541" status="passed">
+            <name>Then I check that page has Yahoo Finance - Business Finance, Stock Market, Quotes, News</name>
+            <title>Then I check that page has Yahoo Finance - Business Finance, Stock Market, Quotes, News</title>
+            <steps>
+                <step start="1453987397057" stop="1453987402540" status="passed">
+                    <name>shouldBeCorrectTitle[Yahoo Finance - Business Finance, Stock Market, Quotes, News]</name>
+                    <title>^I check that page has correct title</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="iklymchuk"/>
+                <label name="thread" value="17529@iklymchuk.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Check the left sites | nav-stock | Yahoo Finance - Business Finance, Stock Market, Quotes, News |"/>
+        <label name="feature" value="To test the Yahoo left sites"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

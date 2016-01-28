@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1453987644206" stop="1453987649183" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Check the left sites | nav-travel | Yahoo Travel |</name>
+    <title>Check the left sites | nav-travel | Yahoo Travel |</title>
+    <test-cases>
+        <test-case start="1453987644206" stop="1453987644206" status="passed">
+            <name>Given I am on the yahoo home page</name>
+            <title>Given I am on the yahoo home page</title>
+            <steps>
+                <step start="1453987639334" stop="1453987644205" status="passed">
+                    <name>shouldNavigateToYahooSite</name>
+                    <title>^I am on the yahoo home page$</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="iklymchuk"/>
+                <label name="thread" value="17529@iklymchuk.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1453987644383" stop="1453987644383" status="passed">
+            <name>When I click on nav-travel</name>
+            <title>When I click on nav-travel</title>
+            <steps>
+                <step start="1453987644210" stop="1453987644383" status="passed">
+                    <name>shouldClickOnLeftSite[nav-travel]</name>
+                    <title>I click on leftlink</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="iklymchuk"/>
+                <label name="thread" value="17529@iklymchuk.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1453987649110" stop="1453987649110" status="passed">
+            <name>Then I check that page has Yahoo Travel</name>
+            <title>Then I check that page has Yahoo Travel</title>
+            <steps>
+                <step start="1453987644385" stop="1453987649110" status="passed">
+                    <name>shouldBeCorrectTitle[Yahoo Travel]</name>
+                    <title>^I check that page has correct title</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="iklymchuk"/>
+                <label name="thread" value="17529@iklymchuk.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Check the left sites | nav-travel | Yahoo Travel |"/>
+        <label name="feature" value="To test the Yahoo left sites"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

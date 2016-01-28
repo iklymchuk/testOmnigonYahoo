@@ -1,0 +1,68 @@
+{
+  "uid" : "9a8f9c421c81e9e7",
+  "name" : "When I click on nav-tech",
+  "title" : "When I click on nav-tech",
+  "time" : {
+    "start" : 1453987666345,
+    "stop" : 1453987666346,
+    "duration" : 1
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 1
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "3205cc63aefd303",
+    "name" : "Check the left sites | nav-tech | Yahoo Tech |",
+    "title" : "Check the left sites | nav-tech | Yahoo Tech |"
+  },
+  "steps" : [ {
+    "name" : "shouldClickOnLeftSite[nav-tech]",
+    "title" : "I click on leftlink",
+    "time" : {
+      "start" : 1453987666165,
+      "stop" : 1453987666345,
+      "duration" : 180
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "iklymchuk"
+  }, {
+    "name" : "thread",
+    "value" : "17529@iklymchuk.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Check the left sites | nav-tech | Yahoo Tech |"
+  }, {
+    "name" : "suite-title",
+    "value" : "Check the left sites | nav-tech | Yahoo Tech |"
+  }, {
+    "name" : "story",
+    "value" : "Check the left sites | nav-tech | Yahoo Tech |"
+  }, {
+    "name" : "feature",
+    "value" : "To test the Yahoo left sites"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

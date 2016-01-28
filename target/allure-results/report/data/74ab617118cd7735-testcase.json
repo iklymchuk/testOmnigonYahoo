@@ -1,0 +1,68 @@
+{
+  "uid" : "74ab617118cd7735",
+  "name" : "When I click on nav-news",
+  "title" : "When I click on nav-news",
+  "time" : {
+    "start" : 1453987340069,
+    "stop" : 1453987340070,
+    "duration" : 1
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 1
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "894edc6675101dbb",
+    "name" : "Check the left sites | nav-news | Yahoo News - Latest News & Headlines |",
+    "title" : "Check the left sites | nav-news | Yahoo News - Latest News & Headlines |"
+  },
+  "steps" : [ {
+    "name" : "shouldClickOnLeftSite[nav-news]",
+    "title" : "I click on leftlink",
+    "time" : {
+      "start" : 1453987339900,
+      "stop" : 1453987340067,
+      "duration" : 167
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "iklymchuk"
+  }, {
+    "name" : "thread",
+    "value" : "17529@iklymchuk.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Check the left sites | nav-news | Yahoo News - Latest News & Headlines |"
+  }, {
+    "name" : "suite-title",
+    "value" : "Check the left sites | nav-news | Yahoo News - Latest News & Headlines |"
+  }, {
+    "name" : "story",
+    "value" : "Check the left sites | nav-news | Yahoo News - Latest News & Headlines |"
+  }, {
+    "name" : "feature",
+    "value" : "To test the Yahoo left sites"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

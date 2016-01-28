@@ -1,0 +1,68 @@
+{
+  "uid" : "1d8f43d76bdb8a22",
+  "name" : "When I click on nav-fntsyfb",
+  "title" : "When I click on nav-fntsyfb",
+  "time" : {
+    "start" : 1453987450471,
+    "stop" : 1453987450471,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 1
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "830c3734d935cf3b",
+    "name" : "Check the left sites | nav-fntsyfb | Fantasy Football |",
+    "title" : "Check the left sites | nav-fntsyfb | Fantasy Football |"
+  },
+  "steps" : [ {
+    "name" : "shouldClickOnLeftSite[nav-fntsyfb]",
+    "title" : "I click on leftlink",
+    "time" : {
+      "start" : 1453987450308,
+      "stop" : 1453987450471,
+      "duration" : 163
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "iklymchuk"
+  }, {
+    "name" : "thread",
+    "value" : "17529@iklymchuk.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Check the left sites | nav-fntsyfb | Fantasy Football |"
+  }, {
+    "name" : "suite-title",
+    "value" : "Check the left sites | nav-fntsyfb | Fantasy Football |"
+  }, {
+    "name" : "story",
+    "value" : "Check the left sites | nav-fntsyfb | Fantasy Football |"
+  }, {
+    "name" : "feature",
+    "value" : "To test the Yahoo left sites"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

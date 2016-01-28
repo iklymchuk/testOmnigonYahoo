@@ -1,0 +1,68 @@
+{
+  "uid" : "56355508a8679130",
+  "name" : "Then I check that page has Yahoo Parenting",
+  "title" : "Then I check that page has Yahoo Parenting",
+  "time" : {
+    "start" : 1453987524823,
+    "stop" : 1453987524823,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 1
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "a7f6d94aada51821",
+    "name" : "Check the left sites | nav-parenting | Yahoo Parenting |",
+    "title" : "Check the left sites | nav-parenting | Yahoo Parenting |"
+  },
+  "steps" : [ {
+    "name" : "shouldBeCorrectTitle[Yahoo Parenting]",
+    "title" : "^I check that page has correct title",
+    "time" : {
+      "start" : 1453987517321,
+      "stop" : 1453987524822,
+      "duration" : 7501
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "iklymchuk"
+  }, {
+    "name" : "thread",
+    "value" : "17529@iklymchuk.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Check the left sites | nav-parenting | Yahoo Parenting |"
+  }, {
+    "name" : "suite-title",
+    "value" : "Check the left sites | nav-parenting | Yahoo Parenting |"
+  }, {
+    "name" : "story",
+    "value" : "Check the left sites | nav-parenting | Yahoo Parenting |"
+  }, {
+    "name" : "feature",
+    "value" : "To test the Yahoo left sites"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

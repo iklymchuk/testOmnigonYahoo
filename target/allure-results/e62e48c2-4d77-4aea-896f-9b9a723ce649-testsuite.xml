@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1453987715902" stop="1453987721519" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Check the left sites | nav-omg | Yahoo Celebrity |</name>
+    <title>Check the left sites | nav-omg | Yahoo Celebrity |</title>
+    <test-cases>
+        <test-case start="1453987715902" stop="1453987715902" status="passed">
+            <name>Given I am on the yahoo home page</name>
+            <title>Given I am on the yahoo home page</title>
+            <steps>
+                <step start="1453987709107" stop="1453987715901" status="passed">
+                    <name>shouldNavigateToYahooSite</name>
+                    <title>^I am on the yahoo home page$</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="iklymchuk"/>
+                <label name="thread" value="17529@iklymchuk.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1453987716098" stop="1453987716098" status="passed">
+            <name>When I click on nav-omg</name>
+            <title>When I click on nav-omg</title>
+            <steps>
+                <step start="1453987715904" stop="1453987716098" status="passed">
+                    <name>shouldClickOnLeftSite[nav-omg]</name>
+                    <title>I click on leftlink</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="iklymchuk"/>
+                <label name="thread" value="17529@iklymchuk.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1453987721444" stop="1453987721444" status="passed">
+            <name>Then I check that page has Yahoo Celebrity</name>
+            <title>Then I check that page has Yahoo Celebrity</title>
+            <steps>
+                <step start="1453987716100" stop="1453987721443" status="passed">
+                    <name>shouldBeCorrectTitle[Yahoo Celebrity]</name>
+                    <title>^I check that page has correct title</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="iklymchuk"/>
+                <label name="thread" value="17529@iklymchuk.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Check the left sites | nav-omg | Yahoo Celebrity |"/>
+        <label name="feature" value="To test the Yahoo left sites"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

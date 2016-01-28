@@ -1,0 +1,68 @@
+{
+  "uid" : "6c57ba8622ccdd42",
+  "name" : "When I click on nav-diy",
+  "title" : "When I click on nav-diy",
+  "time" : {
+    "start" : 1453987487551,
+    "stop" : 1453987487551,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 1
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "e1a5479e2ab541a7",
+    "name" : "Check the left sites | nav-diy | Yahoo Makers |",
+    "title" : "Check the left sites | nav-diy | Yahoo Makers |"
+  },
+  "steps" : [ {
+    "name" : "shouldClickOnLeftSite[nav-diy]",
+    "title" : "I click on leftlink",
+    "time" : {
+      "start" : 1453987487358,
+      "stop" : 1453987487549,
+      "duration" : 191
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "iklymchuk"
+  }, {
+    "name" : "thread",
+    "value" : "17529@iklymchuk.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Check the left sites | nav-diy | Yahoo Makers |"
+  }, {
+    "name" : "suite-title",
+    "value" : "Check the left sites | nav-diy | Yahoo Makers |"
+  }, {
+    "name" : "story",
+    "value" : "Check the left sites | nav-diy | Yahoo Makers |"
+  }, {
+    "name" : "feature",
+    "value" : "To test the Yahoo left sites"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

@@ -1,0 +1,68 @@
+{
+  "uid" : "e7602fa8faee7563",
+  "name" : "Given I am on the yahoo home page",
+  "title" : "Given I am on the yahoo home page",
+  "time" : {
+    "start" : 1453987428807,
+    "stop" : 1453987428807,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 1
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "2036994ec7dec0c3",
+    "name" : "Check the left sites | nav-autos | Yahoo Autos |",
+    "title" : "Check the left sites | nav-autos | Yahoo Autos |"
+  },
+  "steps" : [ {
+    "name" : "shouldNavigateToYahooSite",
+    "title" : "^I am on the yahoo home page$",
+    "time" : {
+      "start" : 1453987423634,
+      "stop" : 1453987428805,
+      "duration" : 5171
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "iklymchuk"
+  }, {
+    "name" : "thread",
+    "value" : "17529@iklymchuk.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Check the left sites | nav-autos | Yahoo Autos |"
+  }, {
+    "name" : "suite-title",
+    "value" : "Check the left sites | nav-autos | Yahoo Autos |"
+  }, {
+    "name" : "story",
+    "value" : "Check the left sites | nav-autos | Yahoo Autos |"
+  }, {
+    "name" : "feature",
+    "value" : "To test the Yahoo left sites"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

@@ -1,0 +1,68 @@
+{
+  "uid" : "6dc04f381a437e66",
+  "name" : "When I click on nav-games",
+  "title" : "When I click on nav-games",
+  "time" : {
+    "start" : 1453987734167,
+    "stop" : 1453987734167,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 1
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "aa1391fc3c3253f7",
+    "name" : "Check the left sites | nav-games | Yahoo Games - Play Free Online Games |",
+    "title" : "Check the left sites | nav-games | Yahoo Games - Play Free Online Games |"
+  },
+  "steps" : [ {
+    "name" : "shouldClickOnLeftSite[nav-games]",
+    "title" : "I click on leftlink",
+    "time" : {
+      "start" : 1453987733993,
+      "stop" : 1453987734167,
+      "duration" : 174
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "iklymchuk"
+  }, {
+    "name" : "thread",
+    "value" : "17529@iklymchuk.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Check the left sites | nav-games | Yahoo Games - Play Free Online Games |"
+  }, {
+    "name" : "suite-title",
+    "value" : "Check the left sites | nav-games | Yahoo Games - Play Free Online Games |"
+  }, {
+    "name" : "story",
+    "value" : "Check the left sites | nav-games | Yahoo Games - Play Free Online Games |"
+  }, {
+    "name" : "feature",
+    "value" : "To test the Yahoo left sites"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

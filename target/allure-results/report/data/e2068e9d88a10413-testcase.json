@@ -1,0 +1,68 @@
+{
+  "uid" : "e2068e9d88a10413",
+  "name" : "Given I am on the yahoo home page",
+  "title" : "Given I am on the yahoo home page",
+  "time" : {
+    "start" : 1453987316016,
+    "stop" : 1453987316020,
+    "duration" : 4
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 1
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "43cc4cfca79495fd",
+    "name" : "Check the left sites | nav-mail | Yahoo - login |",
+    "title" : "Check the left sites | nav-mail | Yahoo - login |"
+  },
+  "steps" : [ {
+    "name" : "shouldNavigateToYahooSite",
+    "title" : "^I am on the yahoo home page$",
+    "time" : {
+      "start" : 1453987301256,
+      "stop" : 1453987315950,
+      "duration" : 14694
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "iklymchuk"
+  }, {
+    "name" : "thread",
+    "value" : "17529@iklymchuk.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Check the left sites | nav-mail | Yahoo - login |"
+  }, {
+    "name" : "suite-title",
+    "value" : "Check the left sites | nav-mail | Yahoo - login |"
+  }, {
+    "name" : "story",
+    "value" : "Check the left sites | nav-mail | Yahoo - login |"
+  }, {
+    "name" : "feature",
+    "value" : "To test the Yahoo left sites"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

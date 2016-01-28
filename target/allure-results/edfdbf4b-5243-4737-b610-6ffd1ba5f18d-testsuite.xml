@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1453987733991" stop="1453987736940" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Check the left sites | nav-games | Yahoo Games - Play Free Online Games |</name>
+    <title>Check the left sites | nav-games | Yahoo Games - Play Free Online Games |</title>
+    <test-cases>
+        <test-case start="1453987733991" stop="1453987733991" status="passed">
+            <name>Given I am on the yahoo home page</name>
+            <title>Given I am on the yahoo home page</title>
+            <steps>
+                <step start="1453987725063" stop="1453987733990" status="passed">
+                    <name>shouldNavigateToYahooSite</name>
+                    <title>^I am on the yahoo home page$</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="iklymchuk"/>
+                <label name="thread" value="17529@iklymchuk.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1453987734167" stop="1453987734167" status="passed">
+            <name>When I click on nav-games</name>
+            <title>When I click on nav-games</title>
+            <steps>
+                <step start="1453987733993" stop="1453987734167" status="passed">
+                    <name>shouldClickOnLeftSite[nav-games]</name>
+                    <title>I click on leftlink</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="iklymchuk"/>
+                <label name="thread" value="17529@iklymchuk.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1453987736858" stop="1453987736858" status="passed">
+            <name>Then I check that page has Yahoo Games - Play Free Online Games</name>
+            <title>Then I check that page has Yahoo Games - Play Free Online Games</title>
+            <steps>
+                <step start="1453987734168" stop="1453987736858" status="passed">
+                    <name>shouldBeCorrectTitle[Yahoo Games - Play Free Online Games]</name>
+                    <title>^I check that page has correct title</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="iklymchuk"/>
+                <label name="thread" value="17529@iklymchuk.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Check the left sites | nav-games | Yahoo Games - Play Free Online Games |"/>
+        <label name="feature" value="To test the Yahoo left sites"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

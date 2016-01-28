@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1453987468962" stop="1453987475998" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Check the left sites | nav-shpg | Yahoo Shopping - Online Shopping with great products, prices and reviews |</name>
+    <title>Check the left sites | nav-shpg | Yahoo Shopping - Online Shopping with great products, prices and reviews |</title>
+    <test-cases>
+        <test-case start="1453987468963" stop="1453987468963" status="passed">
+            <name>Given I am on the yahoo home page</name>
+            <title>Given I am on the yahoo home page</title>
+            <steps>
+                <step start="1453987458517" stop="1453987468961" status="passed">
+                    <name>shouldNavigateToYahooSite</name>
+                    <title>^I am on the yahoo home page$</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="iklymchuk"/>
+                <label name="thread" value="17529@iklymchuk.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1453987469150" stop="1453987469150" status="passed">
+            <name>When I click on nav-shpg</name>
+            <title>When I click on nav-shpg</title>
+            <steps>
+                <step start="1453987468965" stop="1453987469149" status="passed">
+                    <name>shouldClickOnLeftSite[nav-shpg]</name>
+                    <title>I click on leftlink</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="iklymchuk"/>
+                <label name="thread" value="17529@iklymchuk.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1453987475404" stop="1453987475404" status="passed">
+            <name>Then I check that page has Yahoo Shopping - Online Shopping with great products, prices and reviews</name>
+            <title>Then I check that page has Yahoo Shopping - Online Shopping with great products, prices and reviews</title>
+            <steps>
+                <step start="1453987469153" stop="1453987475403" status="passed">
+                    <name>shouldBeCorrectTitle[Yahoo Shopping - Online Shopping with great products, prices and reviews]</name>
+                    <title>^I check that page has correct title</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="iklymchuk"/>
+                <label name="thread" value="17529@iklymchuk.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Check the left sites | nav-shpg | Yahoo Shopping - Online Shopping with great products, prices and reviews |"/>
+        <label name="feature" value="To test the Yahoo left sites"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

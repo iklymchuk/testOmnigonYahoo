@@ -1,0 +1,68 @@
+{
+  "uid" : "7a00354998227968",
+  "name" : "When I click on nav-style",
+  "title" : "When I click on nav-style",
+  "time" : {
+    "start" : 1453987572071,
+    "stop" : 1453987572071,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 1
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "e7ba7f3c3ac60466",
+    "name" : "Check the left sites | nav-style | Yahoo Style |",
+    "title" : "Check the left sites | nav-style | Yahoo Style |"
+  },
+  "steps" : [ {
+    "name" : "shouldClickOnLeftSite[nav-style]",
+    "title" : "I click on leftlink",
+    "time" : {
+      "start" : 1453987571918,
+      "stop" : 1453987572070,
+      "duration" : 152
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "iklymchuk"
+  }, {
+    "name" : "thread",
+    "value" : "17529@iklymchuk.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Check the left sites | nav-style | Yahoo Style |"
+  }, {
+    "name" : "suite-title",
+    "value" : "Check the left sites | nav-style | Yahoo Style |"
+  }, {
+    "name" : "story",
+    "value" : "Check the left sites | nav-style | Yahoo Style |"
+  }, {
+    "name" : "feature",
+    "value" : "To test the Yahoo left sites"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

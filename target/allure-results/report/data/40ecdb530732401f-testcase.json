@@ -1,0 +1,68 @@
+{
+  "uid" : "40ecdb530732401f",
+  "name" : "Given I am on the yahoo home page",
+  "title" : "Given I am on the yahoo home page",
+  "time" : {
+    "start" : 1453987373311,
+    "stop" : 1453987373311,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 1
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "9579ecdddc42d1f4",
+    "name" : "Check the left sites | nav-sports | Yahoo Sports – Sports News, Scores, Rumors, Fantasy Games, and more |",
+    "title" : "Check the left sites | nav-sports | Yahoo Sports – Sports News, Scores, Rumors, Fantasy Games, and more |"
+  },
+  "steps" : [ {
+    "name" : "shouldNavigateToYahooSite",
+    "title" : "^I am on the yahoo home page$",
+    "time" : {
+      "start" : 1453987365050,
+      "stop" : 1453987373310,
+      "duration" : 8260
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "iklymchuk"
+  }, {
+    "name" : "thread",
+    "value" : "17529@iklymchuk.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Check the left sites | nav-sports | Yahoo Sports – Sports News, Scores, Rumors, Fantasy Games, and more |"
+  }, {
+    "name" : "suite-title",
+    "value" : "Check the left sites | nav-sports | Yahoo Sports – Sports News, Scores, Rumors, Fantasy Games, and more |"
+  }, {
+    "name" : "story",
+    "value" : "Check the left sites | nav-sports | Yahoo Sports – Sports News, Scores, Rumors, Fantasy Games, and more |"
+  }, {
+    "name" : "feature",
+    "value" : "To test the Yahoo left sites"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

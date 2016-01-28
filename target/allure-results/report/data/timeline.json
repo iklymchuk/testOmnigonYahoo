@@ -1,0 +1,669 @@
+{
+  "hosts" : [ {
+    "title" : "iklymchuk",
+    "threads" : [ {
+      "title" : "17529@iklymchuk.main(1)",
+      "testCases" : [ {
+        "uid" : "e7602fa8faee7563",
+        "name" : "Given I am on the yahoo home page",
+        "title" : "Given I am on the yahoo home page",
+        "time" : {
+          "start" : 1453987428807,
+          "stop" : 1453987428807,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "88ac9b7927d7230c",
+        "name" : "When I click on nav-autos",
+        "title" : "When I click on nav-autos",
+        "time" : {
+          "start" : 1453987428989,
+          "stop" : 1453987428989,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "5ab715c2f451ce36",
+        "name" : "Then I check that page has Yahoo Autos",
+        "title" : "Then I check that page has Yahoo Autos",
+        "time" : {
+          "start" : 1453987435739,
+          "stop" : 1453987435739,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "4bee7b89c058b07e",
+        "name" : "Given I am on the yahoo home page",
+        "title" : "Given I am on the yahoo home page",
+        "time" : {
+          "start" : 1453987715902,
+          "stop" : 1453987715902,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "1ebf14580f917884",
+        "name" : "When I click on nav-omg",
+        "title" : "When I click on nav-omg",
+        "time" : {
+          "start" : 1453987716098,
+          "stop" : 1453987716098,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "7a333ac8fa37ad43",
+        "name" : "Then I check that page has Yahoo Celebrity",
+        "title" : "Then I check that page has Yahoo Celebrity",
+        "time" : {
+          "start" : 1453987721444,
+          "stop" : 1453987721444,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "d3fbd39d79f401c1",
+        "name" : "Given I am on the yahoo home page",
+        "title" : "Given I am on the yahoo home page",
+        "time" : {
+          "start" : 1453987571915,
+          "stop" : 1453987571915,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "7a00354998227968",
+        "name" : "When I click on nav-style",
+        "title" : "When I click on nav-style",
+        "time" : {
+          "start" : 1453987572071,
+          "stop" : 1453987572071,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "7c571c511a8b1a0e",
+        "name" : "Then I check that page has Yahoo Style",
+        "title" : "Then I check that page has Yahoo Style",
+        "time" : {
+          "start" : 1453987576046,
+          "stop" : 1453987576046,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "ddd1cea602d3e8e6",
+        "name" : "Given I am on the yahoo home page",
+        "title" : "Given I am on the yahoo home page",
+        "time" : {
+          "start" : 1453987591892,
+          "stop" : 1453987591892,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "2b96eb973befb929",
+        "name" : "When I click on nav-beauty",
+        "title" : "When I click on nav-beauty",
+        "time" : {
+          "start" : 1453987592520,
+          "stop" : 1453987592521,
+          "duration" : 1
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "283423049fbfbcf3",
+        "name" : "Then I check that page has Yahoo Beauty",
+        "title" : "Then I check that page has Yahoo Beauty",
+        "time" : {
+          "start" : 1453987598384,
+          "stop" : 1453987598384,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "6449434c00090cda",
+        "name" : "Given I am on the yahoo home page",
+        "title" : "Given I am on the yahoo home page",
+        "time" : {
+          "start" : 1453987487356,
+          "stop" : 1453987487356,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "6c57ba8622ccdd42",
+        "name" : "When I click on nav-diy",
+        "title" : "When I click on nav-diy",
+        "time" : {
+          "start" : 1453987487551,
+          "stop" : 1453987487551,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "77c3bc22e14e9a28",
+        "name" : "Then I check that page has Yahoo Makers",
+        "title" : "Then I check that page has Yahoo Makers",
+        "time" : {
+          "start" : 1453987500024,
+          "stop" : 1453987500025,
+          "duration" : 1
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "969245c14a965cc7",
+        "name" : "Given I am on the yahoo home page",
+        "title" : "Given I am on the yahoo home page",
+        "time" : {
+          "start" : 1453987539137,
+          "stop" : 1453987539138,
+          "duration" : 1
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "10be59116781106e",
+        "name" : "When I click on nav-health",
+        "title" : "When I click on nav-health",
+        "time" : {
+          "start" : 1453987539331,
+          "stop" : 1453987539331,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "398a8724104d860",
+        "name" : "Then I check that page has Yahoo Health",
+        "title" : "Then I check that page has Yahoo Health",
+        "time" : {
+          "start" : 1453987552540,
+          "stop" : 1453987552540,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "8dd74cbcc19d9256",
+        "name" : "Given I am on the yahoo home page",
+        "title" : "Given I am on the yahoo home page",
+        "time" : {
+          "start" : 1453987630087,
+          "stop" : 1453987630087,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "cec3113172e3cc85",
+        "name" : "When I click on nav-movie",
+        "title" : "When I click on nav-movie",
+        "time" : {
+          "start" : 1453987630306,
+          "stop" : 1453987630306,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "83ea942abf2f797d",
+        "name" : "Then I check that page has Yahoo Movies",
+        "title" : "Then I check that page has Yahoo Movies",
+        "time" : {
+          "start" : 1453987635988,
+          "stop" : 1453987635988,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "d5b17e0064c99b53",
+        "name" : "Given I am on the yahoo home page",
+        "title" : "Given I am on the yahoo home page",
+        "time" : {
+          "start" : 1453987613808,
+          "stop" : 1453987613808,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "5777517516d2b9fb",
+        "name" : "When I click on nav-politics",
+        "title" : "When I click on nav-politics",
+        "time" : {
+          "start" : 1453987614008,
+          "stop" : 1453987614008,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "5ddf51f91f7d7bf1",
+        "name" : "Then I check that page has Yahoo Politics",
+        "title" : "Then I check that page has Yahoo Politics",
+        "time" : {
+          "start" : 1453987618745,
+          "stop" : 1453987618745,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "88b5947e58428cf",
+        "name" : "Given I am on the yahoo home page",
+        "title" : "Given I am on the yahoo home page",
+        "time" : {
+          "start" : 1453987517112,
+          "stop" : 1453987517112,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "1394e6dc82652556",
+        "name" : "When I click on nav-parenting",
+        "title" : "When I click on nav-parenting",
+        "time" : {
+          "start" : 1453987517319,
+          "stop" : 1453987517319,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "56355508a8679130",
+        "name" : "Then I check that page has Yahoo Parenting",
+        "title" : "Then I check that page has Yahoo Parenting",
+        "time" : {
+          "start" : 1453987524823,
+          "stop" : 1453987524823,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "b45e51d04d332c78",
+        "name" : "Given I am on the yahoo home page",
+        "title" : "Given I am on the yahoo home page",
+        "time" : {
+          "start" : 1453987339896,
+          "stop" : 1453987339896,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "74ab617118cd7735",
+        "name" : "When I click on nav-news",
+        "title" : "When I click on nav-news",
+        "time" : {
+          "start" : 1453987340069,
+          "stop" : 1453987340070,
+          "duration" : 1
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "498a13b141fb3d5c",
+        "name" : "Then I check that page has Yahoo News - Latest News & Headlines",
+        "title" : "Then I check that page has Yahoo News - Latest News & Headlines",
+        "time" : {
+          "start" : 1453987361436,
+          "stop" : 1453987361436,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "ed54d245a7631579",
+        "name" : "Given I am on the yahoo home page",
+        "title" : "Given I am on the yahoo home page",
+        "time" : {
+          "start" : 1453987666162,
+          "stop" : 1453987666162,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "9a8f9c421c81e9e7",
+        "name" : "When I click on nav-tech",
+        "title" : "When I click on nav-tech",
+        "time" : {
+          "start" : 1453987666345,
+          "stop" : 1453987666346,
+          "duration" : 1
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "a98a2b8a5b556499",
+        "name" : "Then I check that page has Yahoo Tech",
+        "title" : "Then I check that page has Yahoo Tech",
+        "time" : {
+          "start" : 1453987674885,
+          "stop" : 1453987674885,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "c8b9638f522d68f",
+        "name" : "Given I am on the yahoo home page",
+        "title" : "Given I am on the yahoo home page",
+        "time" : {
+          "start" : 1453987693373,
+          "stop" : 1453987693373,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "760dec025a760c1",
+        "name" : "When I click on nav-tv",
+        "title" : "When I click on nav-tv",
+        "time" : {
+          "start" : 1453987693552,
+          "stop" : 1453987693552,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "51f95f28a61f3e4e",
+        "name" : "Then I check that page has Yahoo TV",
+        "title" : "Then I check that page has Yahoo TV",
+        "time" : {
+          "start" : 1453987705780,
+          "stop" : 1453987705780,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "e2068e9d88a10413",
+        "name" : "Given I am on the yahoo home page",
+        "title" : "Given I am on the yahoo home page",
+        "time" : {
+          "start" : 1453987316016,
+          "stop" : 1453987316020,
+          "duration" : 4
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "ce94081800ba68f4",
+        "name" : "When I click on nav-mail",
+        "title" : "When I click on nav-mail",
+        "time" : {
+          "start" : 1453987316328,
+          "stop" : 1453987316328,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "514f26034708e915",
+        "name" : "Then I check that page has Yahoo - login",
+        "title" : "Then I check that page has Yahoo - login",
+        "time" : {
+          "start" : 1453987321494,
+          "stop" : 1453987321494,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "40ecdb530732401f",
+        "name" : "Given I am on the yahoo home page",
+        "title" : "Given I am on the yahoo home page",
+        "time" : {
+          "start" : 1453987373311,
+          "stop" : 1453987373311,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "4ebf87e2a5bfe9d7",
+        "name" : "When I click on nav-sports",
+        "title" : "When I click on nav-sports",
+        "time" : {
+          "start" : 1453987373512,
+          "stop" : 1453987373512,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "be8eb451cf04a54f",
+        "name" : "Then I check that page has Yahoo Sports – Sports News, Scores, Rumors, Fantasy Games, and more",
+        "title" : "Then I check that page has Yahoo Sports – Sports News, Scores, Rumors, Fantasy Games, and more",
+        "time" : {
+          "start" : 1453987379147,
+          "stop" : 1453987379147,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "5ada2f840a580519",
+        "name" : "Given I am on the yahoo home page",
+        "title" : "Given I am on the yahoo home page",
+        "time" : {
+          "start" : 1453987468963,
+          "stop" : 1453987468963,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "c8c02bd08ffbef93",
+        "name" : "When I click on nav-shpg",
+        "title" : "When I click on nav-shpg",
+        "time" : {
+          "start" : 1453987469150,
+          "stop" : 1453987469150,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "5e2893d3e5c51d3c",
+        "name" : "Then I check that page has Yahoo Shopping - Online Shopping with great products, prices and reviews",
+        "title" : "Then I check that page has Yahoo Shopping - Online Shopping with great products, prices and reviews",
+        "time" : {
+          "start" : 1453987475404,
+          "stop" : 1453987475404,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "a4bbc6bb29e32e95",
+        "name" : "Given I am on the yahoo home page",
+        "title" : "Given I am on the yahoo home page",
+        "time" : {
+          "start" : 1453987450306,
+          "stop" : 1453987450306,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "1d8f43d76bdb8a22",
+        "name" : "When I click on nav-fntsyfb",
+        "title" : "When I click on nav-fntsyfb",
+        "time" : {
+          "start" : 1453987450471,
+          "stop" : 1453987450471,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "fba1fe11df5a9d3d",
+        "name" : "Then I check that page has Fantasy Football",
+        "title" : "Then I check that page has Fantasy Football",
+        "time" : {
+          "start" : 1453987455173,
+          "stop" : 1453987455173,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "c17f5780c1f7a2fb",
+        "name" : "Given I am on the yahoo home page",
+        "title" : "Given I am on the yahoo home page",
+        "time" : {
+          "start" : 1453987733991,
+          "stop" : 1453987733991,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "6dc04f381a437e66",
+        "name" : "When I click on nav-games",
+        "title" : "When I click on nav-games",
+        "time" : {
+          "start" : 1453987734167,
+          "stop" : 1453987734167,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "72ed839600655b50",
+        "name" : "Then I check that page has Yahoo Games - Play Free Online Games",
+        "title" : "Then I check that page has Yahoo Games - Play Free Online Games",
+        "time" : {
+          "start" : 1453987736858,
+          "stop" : 1453987736858,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "4125521141d8f32",
+        "name" : "Given I am on the yahoo home page",
+        "title" : "Given I am on the yahoo home page",
+        "time" : {
+          "start" : 1453987414649,
+          "stop" : 1453987414650,
+          "duration" : 1
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "e1542b93ddc33c01",
+        "name" : "When I click on nav-wthr",
+        "title" : "When I click on nav-wthr",
+        "time" : {
+          "start" : 1453987414831,
+          "stop" : 1453987414831,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "2a91344f8b3ee942",
+        "name" : "Then I check that page has Yahoo Weather - Weather Forecasts",
+        "title" : "Then I check that page has Yahoo Weather - Weather Forecasts",
+        "time" : {
+          "start" : 1453987420215,
+          "stop" : 1453987420215,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "d5ea4403b898bb41",
+        "name" : "Given I am on the yahoo home page",
+        "title" : "Given I am on the yahoo home page",
+        "time" : {
+          "start" : 1453987644206,
+          "stop" : 1453987644206,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "9f10f837bfbf53ce",
+        "name" : "When I click on nav-travel",
+        "title" : "When I click on nav-travel",
+        "time" : {
+          "start" : 1453987644383,
+          "stop" : 1453987644383,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "38e563d3b53a5c42",
+        "name" : "Then I check that page has Yahoo Travel",
+        "title" : "Then I check that page has Yahoo Travel",
+        "time" : {
+          "start" : 1453987649110,
+          "stop" : 1453987649110,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "1cf835f773166360",
+        "name" : "Given I am on the yahoo home page",
+        "title" : "Given I am on the yahoo home page",
+        "time" : {
+          "start" : 1453987396908,
+          "stop" : 1453987396909,
+          "duration" : 1
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "145891295fca0c14",
+        "name" : "When I click on nav-stock",
+        "title" : "When I click on nav-stock",
+        "time" : {
+          "start" : 1453987397056,
+          "stop" : 1453987397056,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "a90589b448171c2d",
+        "name" : "Then I check that page has Yahoo Finance - Business Finance, Stock Market, Quotes, News",
+        "title" : "Then I check that page has Yahoo Finance - Business Finance, Stock Market, Quotes, News",
+        "time" : {
+          "start" : 1453987402541,
+          "stop" : 1453987402541,
+          "duration" : 0
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}

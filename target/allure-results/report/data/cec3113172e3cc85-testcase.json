@@ -1,0 +1,68 @@
+{
+  "uid" : "cec3113172e3cc85",
+  "name" : "When I click on nav-movie",
+  "title" : "When I click on nav-movie",
+  "time" : {
+    "start" : 1453987630306,
+    "stop" : 1453987630306,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 1
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "8d9a7dc37cf1a9e8",
+    "name" : "Check the left sites | nav-movie | Yahoo Movies |",
+    "title" : "Check the left sites | nav-movie | Yahoo Movies |"
+  },
+  "steps" : [ {
+    "name" : "shouldClickOnLeftSite[nav-movie]",
+    "title" : "I click on leftlink",
+    "time" : {
+      "start" : 1453987630091,
+      "stop" : 1453987630306,
+      "duration" : 215
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "iklymchuk"
+  }, {
+    "name" : "thread",
+    "value" : "17529@iklymchuk.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Check the left sites | nav-movie | Yahoo Movies |"
+  }, {
+    "name" : "suite-title",
+    "value" : "Check the left sites | nav-movie | Yahoo Movies |"
+  }, {
+    "name" : "story",
+    "value" : "Check the left sites | nav-movie | Yahoo Movies |"
+  }, {
+    "name" : "feature",
+    "value" : "To test the Yahoo left sites"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

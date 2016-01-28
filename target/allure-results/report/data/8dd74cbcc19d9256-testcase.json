@@ -1,0 +1,68 @@
+{
+  "uid" : "8dd74cbcc19d9256",
+  "name" : "Given I am on the yahoo home page",
+  "title" : "Given I am on the yahoo home page",
+  "time" : {
+    "start" : 1453987630087,
+    "stop" : 1453987630087,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 1
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "8d9a7dc37cf1a9e8",
+    "name" : "Check the left sites | nav-movie | Yahoo Movies |",
+    "title" : "Check the left sites | nav-movie | Yahoo Movies |"
+  },
+  "steps" : [ {
+    "name" : "shouldNavigateToYahooSite",
+    "title" : "^I am on the yahoo home page$",
+    "time" : {
+      "start" : 1453987621968,
+      "stop" : 1453987630086,
+      "duration" : 8118
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "iklymchuk"
+  }, {
+    "name" : "thread",
+    "value" : "17529@iklymchuk.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Check the left sites | nav-movie | Yahoo Movies |"
+  }, {
+    "name" : "suite-title",
+    "value" : "Check the left sites | nav-movie | Yahoo Movies |"
+  }, {
+    "name" : "story",
+    "value" : "Check the left sites | nav-movie | Yahoo Movies |"
+  }, {
+    "name" : "feature",
+    "value" : "To test the Yahoo left sites"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

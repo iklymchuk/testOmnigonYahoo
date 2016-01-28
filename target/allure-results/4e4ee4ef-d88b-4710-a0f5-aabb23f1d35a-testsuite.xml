@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1453987539137" stop="1453987552613" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Check the left sites | nav-health | Yahoo Health |</name>
+    <title>Check the left sites | nav-health | Yahoo Health |</title>
+    <test-cases>
+        <test-case start="1453987539137" stop="1453987539138" status="passed">
+            <name>Given I am on the yahoo home page</name>
+            <title>Given I am on the yahoo home page</title>
+            <steps>
+                <step start="1453987528098" stop="1453987539137" status="passed">
+                    <name>shouldNavigateToYahooSite</name>
+                    <title>^I am on the yahoo home page$</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="iklymchuk"/>
+                <label name="thread" value="17529@iklymchuk.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1453987539331" stop="1453987539331" status="passed">
+            <name>When I click on nav-health</name>
+            <title>When I click on nav-health</title>
+            <steps>
+                <step start="1453987539140" stop="1453987539331" status="passed">
+                    <name>shouldClickOnLeftSite[nav-health]</name>
+                    <title>I click on leftlink</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="iklymchuk"/>
+                <label name="thread" value="17529@iklymchuk.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1453987552540" stop="1453987552540" status="passed">
+            <name>Then I check that page has Yahoo Health</name>
+            <title>Then I check that page has Yahoo Health</title>
+            <steps>
+                <step start="1453987539333" stop="1453987552540" status="passed">
+                    <name>shouldBeCorrectTitle[Yahoo Health]</name>
+                    <title>^I check that page has correct title</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="iklymchuk"/>
+                <label name="thread" value="17529@iklymchuk.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Check the left sites | nav-health | Yahoo Health |"/>
+        <label name="feature" value="To test the Yahoo left sites"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

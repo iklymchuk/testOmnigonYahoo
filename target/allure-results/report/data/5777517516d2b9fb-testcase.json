@@ -1,0 +1,68 @@
+{
+  "uid" : "5777517516d2b9fb",
+  "name" : "When I click on nav-politics",
+  "title" : "When I click on nav-politics",
+  "time" : {
+    "start" : 1453987614008,
+    "stop" : 1453987614008,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 1
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "17c6bdf34d214b5a",
+    "name" : "Check the left sites | nav-politics | Yahoo Politics |",
+    "title" : "Check the left sites | nav-politics | Yahoo Politics |"
+  },
+  "steps" : [ {
+    "name" : "shouldClickOnLeftSite[nav-politics]",
+    "title" : "I click on leftlink",
+    "time" : {
+      "start" : 1453987613809,
+      "stop" : 1453987614008,
+      "duration" : 199
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "iklymchuk"
+  }, {
+    "name" : "thread",
+    "value" : "17529@iklymchuk.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Check the left sites | nav-politics | Yahoo Politics |"
+  }, {
+    "name" : "suite-title",
+    "value" : "Check the left sites | nav-politics | Yahoo Politics |"
+  }, {
+    "name" : "story",
+    "value" : "Check the left sites | nav-politics | Yahoo Politics |"
+  }, {
+    "name" : "feature",
+    "value" : "To test the Yahoo left sites"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

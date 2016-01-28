@@ -1,0 +1,68 @@
+{
+  "uid" : "2b96eb973befb929",
+  "name" : "When I click on nav-beauty",
+  "title" : "When I click on nav-beauty",
+  "time" : {
+    "start" : 1453987592520,
+    "stop" : 1453987592521,
+    "duration" : 1
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 1
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "52582840c502a360",
+    "name" : "Check the left sites | nav-beauty | Yahoo Beauty |",
+    "title" : "Check the left sites | nav-beauty | Yahoo Beauty |"
+  },
+  "steps" : [ {
+    "name" : "shouldClickOnLeftSite[nav-beauty]",
+    "title" : "I click on leftlink",
+    "time" : {
+      "start" : 1453987591894,
+      "stop" : 1453987592520,
+      "duration" : 626
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "iklymchuk"
+  }, {
+    "name" : "thread",
+    "value" : "17529@iklymchuk.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Check the left sites | nav-beauty | Yahoo Beauty |"
+  }, {
+    "name" : "suite-title",
+    "value" : "Check the left sites | nav-beauty | Yahoo Beauty |"
+  }, {
+    "name" : "story",
+    "value" : "Check the left sites | nav-beauty | Yahoo Beauty |"
+  }, {
+    "name" : "feature",
+    "value" : "To test the Yahoo left sites"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

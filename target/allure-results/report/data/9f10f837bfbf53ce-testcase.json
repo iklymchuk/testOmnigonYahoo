@@ -1,0 +1,68 @@
+{
+  "uid" : "9f10f837bfbf53ce",
+  "name" : "When I click on nav-travel",
+  "title" : "When I click on nav-travel",
+  "time" : {
+    "start" : 1453987644383,
+    "stop" : 1453987644383,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 1
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "b9d71fcf741d8ced",
+    "name" : "Check the left sites | nav-travel | Yahoo Travel |",
+    "title" : "Check the left sites | nav-travel | Yahoo Travel |"
+  },
+  "steps" : [ {
+    "name" : "shouldClickOnLeftSite[nav-travel]",
+    "title" : "I click on leftlink",
+    "time" : {
+      "start" : 1453987644210,
+      "stop" : 1453987644383,
+      "duration" : 173
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "iklymchuk"
+  }, {
+    "name" : "thread",
+    "value" : "17529@iklymchuk.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Check the left sites | nav-travel | Yahoo Travel |"
+  }, {
+    "name" : "suite-title",
+    "value" : "Check the left sites | nav-travel | Yahoo Travel |"
+  }, {
+    "name" : "story",
+    "value" : "Check the left sites | nav-travel | Yahoo Travel |"
+  }, {
+    "name" : "feature",
+    "value" : "To test the Yahoo left sites"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

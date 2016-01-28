@@ -1,0 +1,68 @@
+{
+  "uid" : "398a8724104d860",
+  "name" : "Then I check that page has Yahoo Health",
+  "title" : "Then I check that page has Yahoo Health",
+  "time" : {
+    "start" : 1453987552540,
+    "stop" : 1453987552540,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 1
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "f1d2c38aab0572ec",
+    "name" : "Check the left sites | nav-health | Yahoo Health |",
+    "title" : "Check the left sites | nav-health | Yahoo Health |"
+  },
+  "steps" : [ {
+    "name" : "shouldBeCorrectTitle[Yahoo Health]",
+    "title" : "^I check that page has correct title",
+    "time" : {
+      "start" : 1453987539333,
+      "stop" : 1453987552540,
+      "duration" : 13207
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "iklymchuk"
+  }, {
+    "name" : "thread",
+    "value" : "17529@iklymchuk.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Check the left sites | nav-health | Yahoo Health |"
+  }, {
+    "name" : "suite-title",
+    "value" : "Check the left sites | nav-health | Yahoo Health |"
+  }, {
+    "name" : "story",
+    "value" : "Check the left sites | nav-health | Yahoo Health |"
+  }, {
+    "name" : "feature",
+    "value" : "To test the Yahoo left sites"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

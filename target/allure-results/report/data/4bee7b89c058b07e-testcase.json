@@ -1,0 +1,68 @@
+{
+  "uid" : "4bee7b89c058b07e",
+  "name" : "Given I am on the yahoo home page",
+  "title" : "Given I am on the yahoo home page",
+  "time" : {
+    "start" : 1453987715902,
+    "stop" : 1453987715902,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 1
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "17e1aadff4dbc06f",
+    "name" : "Check the left sites | nav-omg | Yahoo Celebrity |",
+    "title" : "Check the left sites | nav-omg | Yahoo Celebrity |"
+  },
+  "steps" : [ {
+    "name" : "shouldNavigateToYahooSite",
+    "title" : "^I am on the yahoo home page$",
+    "time" : {
+      "start" : 1453987709107,
+      "stop" : 1453987715901,
+      "duration" : 6794
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "iklymchuk"
+  }, {
+    "name" : "thread",
+    "value" : "17529@iklymchuk.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Check the left sites | nav-omg | Yahoo Celebrity |"
+  }, {
+    "name" : "suite-title",
+    "value" : "Check the left sites | nav-omg | Yahoo Celebrity |"
+  }, {
+    "name" : "story",
+    "value" : "Check the left sites | nav-omg | Yahoo Celebrity |"
+  }, {
+    "name" : "feature",
+    "value" : "To test the Yahoo left sites"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

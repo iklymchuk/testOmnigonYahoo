@@ -1,0 +1,68 @@
+{
+  "uid" : "a90589b448171c2d",
+  "name" : "Then I check that page has Yahoo Finance - Business Finance, Stock Market, Quotes, News",
+  "title" : "Then I check that page has Yahoo Finance - Business Finance, Stock Market, Quotes, News",
+  "time" : {
+    "start" : 1453987402541,
+    "stop" : 1453987402541,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 1
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "c2be98b678d98cd4",
+    "name" : "Check the left sites | nav-stock | Yahoo Finance - Business Finance, Stock Market, Quotes, News |",
+    "title" : "Check the left sites | nav-stock | Yahoo Finance - Business Finance, Stock Market, Quotes, News |"
+  },
+  "steps" : [ {
+    "name" : "shouldBeCorrectTitle[Yahoo Finance - Business Finance, Stock Market, Quotes, News]",
+    "title" : "^I check that page has correct title",
+    "time" : {
+      "start" : 1453987397057,
+      "stop" : 1453987402540,
+      "duration" : 5483
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "iklymchuk"
+  }, {
+    "name" : "thread",
+    "value" : "17529@iklymchuk.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Check the left sites | nav-stock | Yahoo Finance - Business Finance, Stock Market, Quotes, News |"
+  }, {
+    "name" : "suite-title",
+    "value" : "Check the left sites | nav-stock | Yahoo Finance - Business Finance, Stock Market, Quotes, News |"
+  }, {
+    "name" : "story",
+    "value" : "Check the left sites | nav-stock | Yahoo Finance - Business Finance, Stock Market, Quotes, News |"
+  }, {
+    "name" : "feature",
+    "value" : "To test the Yahoo left sites"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

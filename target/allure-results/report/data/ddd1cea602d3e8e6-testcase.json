@@ -1,0 +1,68 @@
+{
+  "uid" : "ddd1cea602d3e8e6",
+  "name" : "Given I am on the yahoo home page",
+  "title" : "Given I am on the yahoo home page",
+  "time" : {
+    "start" : 1453987591892,
+    "stop" : 1453987591892,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 1
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "52582840c502a360",
+    "name" : "Check the left sites | nav-beauty | Yahoo Beauty |",
+    "title" : "Check the left sites | nav-beauty | Yahoo Beauty |"
+  },
+  "steps" : [ {
+    "name" : "shouldNavigateToYahooSite",
+    "title" : "^I am on the yahoo home page$",
+    "time" : {
+      "start" : 1453987579530,
+      "stop" : 1453987591891,
+      "duration" : 12361
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "iklymchuk"
+  }, {
+    "name" : "thread",
+    "value" : "17529@iklymchuk.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Check the left sites | nav-beauty | Yahoo Beauty |"
+  }, {
+    "name" : "suite-title",
+    "value" : "Check the left sites | nav-beauty | Yahoo Beauty |"
+  }, {
+    "name" : "story",
+    "value" : "Check the left sites | nav-beauty | Yahoo Beauty |"
+  }, {
+    "name" : "feature",
+    "value" : "To test the Yahoo left sites"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}
